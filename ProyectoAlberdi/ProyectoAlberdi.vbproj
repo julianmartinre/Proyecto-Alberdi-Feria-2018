@@ -154,6 +154,19 @@
     </None>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Recursos\1.png" />
+    <Content Include="Recursos\2.png" />
+    <Content Include="Recursos\3.png" />
+    <Content Include="Recursos\4.png" />
+    <Content Include="Recursos\5.png" />
+    <Content Include="Recursos\6.png" />
+    <Content Include="Recursos\7.png" />
+    <Content Include="Recursos\8.png" />
+    <Content Include="Recursos\9.png" />
+    <Content Include="Recursos\o.png" />
+    <Content Include="Recursos\x.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
